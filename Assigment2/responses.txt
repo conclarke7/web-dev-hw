@@ -1,0 +1,7 @@
+1.Data travels in packets across the internet when it reaches a computer it turns the packets into a message.
+
+A DNS converts references into a IP address for a server
+
+A cookie is a document that saves your preference for websites
+
+Protocol, domain name, and path
