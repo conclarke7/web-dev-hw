@@ -8,5 +8,7 @@ I took this class because it could have a lot of value for my major. As a market
 3. How to insert my own logos into my webpage
 
 [Evo](https://www.evo.com/)
+
 [Responce file](./responses.txt)
+
 ![Screen Shot](./images/ScreenShot.png)
