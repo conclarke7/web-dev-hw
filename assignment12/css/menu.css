@@ -1,0 +1,26 @@
+menu{
+  margin: auto;
+  padding:;
+  background-color: Red;
+}
+
+#site-links{
+margin: 0;
+padding: 0;
+display: inline-block;
+
+}
+#site-links .menu-item {
+  width: 6em;
+
+  padding: .5em 1em;
+
+  display: inline-block;
+
+  background-color: red;
+
+  text-align: center;
+
+  color:white;
+}
+#site-links
